@@ -11,7 +11,7 @@
 应为游戏的不断更新我会持续关注，以下是前置文件下载:
 
 **在上面的链接当中**
-
+![image](https://github.com/2019wanan/Monster-Hunter-world-Bug/blob/master/images/img.jpg)
 
 **另外还需要下载微软的Visual C++**：因为有些电脑会出现黑屏，无法适配的问题，所以在电脑本地添加个部署模型
 
